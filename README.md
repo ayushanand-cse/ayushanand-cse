@@ -1,4 +1,4 @@
-# Hi 👋, I'm ayushanand-cse
+# Hi 👋, I'm Ayush Anand Pandey
 
 ### CS Student & Frontend Developer | India
 
@@ -31,5 +31,5 @@
 ---
 
 ## 🤝 Connect with Me:
-* 📧 Email: *(Add your email here)*
-* 💼 LinkedIn: [Your Profile Name](https://linkedin.com/in/your-username)
+* 📧 Email: pandeyayushanand@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/ayushanandpandey/
