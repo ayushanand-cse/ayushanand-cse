@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ayush Anand Pandey
 
-### CS Student & Frontend Developer | India
+### CS Student & Frontend Developer 
 
 ---
 
