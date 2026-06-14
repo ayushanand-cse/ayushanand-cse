@@ -1,4 +1,5 @@
-# Hi 👋, I'm Ayush Anand Pandey
+# Hi 👋,
+I'm Ayush Anand Pandey
 
 ### CS Student & Frontend Developer 
 
