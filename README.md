@@ -1,6 +1,7 @@
 # Hi 👋, I'm Ayush Anand Pandey
 
 ### CS Student & Frontend Developer 
+![Visitors](https://api.mojomoxi.com/badge/v1/owner/ayushanand-cse/repo/ayushanand-cse/badge.svg)
 
 ---
 
